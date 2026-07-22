@@ -8,8 +8,8 @@
 ---
 
 <p align="left">⠀
- <a href="https://en.pronouns.page/@mortisfication"> <img src="https://github.com/mortisfication/mortisfication/blob/4a26ee75ca1b5efeba2490b0e12eaaafbf8bd810/pronouns%20page%20usb.png" alt="sign ata!" width="230"></a>
-<a href="https://tuichuf.atabook.org"> <img src="https://github.com/mortisfication/mortisfication/blob/c3f7ad04c99d66d0b357fd38286b36f9ff7efcca/atabook%20sd%20card.png" alt="sign ata!" width="120"></a> 
+ <a href="https://en.pronouns.page/@mortisfication"> <img src="https://github.com/mortisfication/mortisfication/blob/4a26ee75ca1b5efeba2490b0e12eaaafbf8bd810/pronouns%20page%20usb.png" alt="sign ata!" width="220"></a>
+<a href="https://tuichuf.atabook.org"> <img src="https://github.com/mortisfication/mortisfication/blob/c3f7ad04c99d66d0b357fd38286b36f9ff7efcca/atabook%20sd%20card.png" alt="sign ata!" width="130"></a> 
 </p>
 
 <h6 align="center">
