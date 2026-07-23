@@ -23,7 +23,7 @@
 </details>
 </h6>
 
-<img align="left" src="https://github.com/mortisfication/mortisfication/blob/cb62f0ef94a8d3b4fed6cbe820662d67a52d4b83/placeholder.jpg" alt="placeholder" width="250" /> 
+<img align="left" src="https://github.com/mortisfication/mortisfication/blob/cb62f0ef94a8d3b4fed6cbe820662d67a52d4b83/placeholder.jpg" alt="placeholder" width="200" /> 
 
 ---
 
