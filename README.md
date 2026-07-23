@@ -1,3 +1,5 @@
+> best viewed on pc, still a wip readme
+
 <h6 align="left"> 
  
  ![](https://komarev.com/ghpvc/?username=mortisfication&color=2A2A2A&style=plastic&label=♱&abbreviated=true) <br> </h6>
